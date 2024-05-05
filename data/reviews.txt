@@ -1,0 +1,30 @@
+87777642	53134592	2018-10-12	2	I still don't understand.
+09923881	31171281	2018-12-12	2	Doesn't know the subject at all.
+09923881	31171281	2018-09-01	3	I just got more confused.
+09923881	31171281	2018-05-27	2	It was really hard to focus.
+17865364	79506373	2018-12-22	5	I now understand the material.
+17865364	79506373	2018-01-03	3	We were able to finish my homework.
+17865364	79506373	2018-01-17	2	Did not help at all.
+17865364	79506373	2018-07-08	3	It was not enough time.
+17865364	79506373	2018-11-23	2	Tutor stayed on phone the whole time.
+83152221	94657401	2018-01-08	2	Tutor was very boring.
+78854925	96586860	2018-04-04	2	Person sucks at.
+87777642	17859592	2018-08-24	4	Really helped with my homework.
+87777642	17859592	2018-03-23	4	Was good at explaining the subject.
+09923881	67146697	2018-07-26	4	Went through the lecture step by step.
+09923881	67146697	2018-07-14	2	Went through material too quickly.
+83152221	13587529	2018-12-17	3	Was able to finish my homework.
+83152221	13587529	2018-11-18	5	Made sure I understood everything.
+78854925	45826092	2018-05-26	2	Kept making me feel inferior.
+55762113	01934649	2018-04-01	5	Helped me understand the lecture.
+32848656	19297491	2018-03-02	3	Kept making mistakes.
+17865364	42376323	2018-05-26	3	Was able to get through the homework.
+17865364	56659146	2018-03-20	2	Tutor got stuck on the problem too.
+09923881	02317588	2018-06-13	5	Made a hard topic easier for me.
+55762113	56211986	2018-09-08	5	Smelled bad and did not help me.
+09923881	54515468	2018-10-30	2	Got wrong answers constantly.
+87777642	96534625	2018-10-06	2	Couldn't hear tutor and wasted time.
+83152221	80808534	2018-09-26	5	Very passionate and tries best.
+09923881	43821112	2018-01-20	3	Didn't get through all the problems.
+78854925	21968235	2018-06-11	2	Wasted a lot of time getting ready.
+87777642	61288218	2018-02-18	5	Explained step by step how to do.

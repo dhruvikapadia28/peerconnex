@@ -1,0 +1,30 @@
+01934649	Micheal Ellis	michealellis@gmail.com	331-320-628	Chemical Engineering
+96586860	Jennifer Soto	jennifersoto@hotmail.com	265-070-903	Computer Engineering
+79506373	Sarah Henry	sarahhenry@gmail.com	488-352-708	Civil Engineering
+53134592	Brian Jenkins	brianjenkins@gmail.com	886-425-873	Environmental Science
+96534625	Patrick Solis	patricksolis@hotmail.com	783-022-691	Nursing
+29061303	Joseph Bryant	josephbryant@hotmail.com	177-685-832	Applied Math
+31171281	Daniel Reese	danielreese@hotmail.com	055-169-124	Arts
+96387603	Christopher Perez	christopherperez@yahoo.com	627-395-982	Electrical Engineering
+61288218	Sarah Cole	sarahcole@gmail.com	331-727-417	Biologist
+21968235	Jonathan Marshall	jonathanmarshall@yahoo.com	314-265-588	Computer Science
+42376323	Petersen Anderson	petersenanderson@yahoo.com	949-934-177	Electrical Engineering
+16881037	Amy Robertson	amyrobertson@yahoo.com	313-584-567	Arts
+54515468	Stephanie Jensen	stephaniejensen@yahoo.com	632-536-596	Graphic Design
+10607237	Tara Bridges	tarabridges@hotmail.com	680-771-466	Arts
+56211986	Amy Armstrong	amyarmstrong@yahoo.com	437-471-077	Chemical Engineering
+67146697	Michael Sanchez	michaelsanchez@hotmail.com	487-287-910	Arts
+19297491	Mary Hancock	maryhancock@gmail.com	797-538-328	Applied Math
+80808534	George Hicks	georgehicks@gmail.com	533-161-906	Finance
+04366676	Bruce Mccarthy	brucemccarthy@hotmail.com	105-595-748	Software Engineering
+45826092	Jacob Sharp	jacobsharp@gmail.com	717-771-383	Computer Engineering
+26789866	Jacob Horn	jacobhorn@gmail.com	147-490-300	Software Engineering
+07273193	Chad Miller	chadmiller@gmail.com	046-004-302	Chemical Engineering
+27972182	Tyler Murphy	tylermurphy@yahoo.com	221-210-393	Graphic Design
+43821112	Alexander Williams	alexanderwilliams@yahoo.com	695-726-486	Graphic Design
+94657401	Andrew Shaffer	andrewshaffer@hotmail.com	672-663-009	Commerce
+56659146	Jeffrey Rasmussen	jeffreyrasmussen@hotmail.com	268-785-264	Civil Engineering
+13587529	Sara Owens	saraowens@gmail.com	036-124-934	Marketing
+17859592	Jerry Dawson	jerrydawson@yahoo.com	384-804-435	Biologist
+78986091	Kathy Boyer	kathyboyer@hotmail.com	492-833-592	Chemical Engineering
+02317588	Sandra Conner	sandraconner@gmail.com	958-868-001	Arts

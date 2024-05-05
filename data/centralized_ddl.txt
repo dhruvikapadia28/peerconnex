@@ -1,0 +1,9 @@
+Create table Tutor(id int Primary Key, name char(30) not null, email varchar(64) not null, phone varchar(12) not null, subject char(20) not null, wage double not null); LOAD DATA LOCAL INFILE 'C:/Users/Dhruvi/Desktop/PeerConneX/data/tutors.txt' into table Tutor FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n';
+
+Create table Tutee (id int primary key, name char(30) not null, email varchar(64) not null, Phone varchar(12) not null, major char(22) not null); LOAD DATA LOCAL INFILE 'C:/Users/Dhruvi/Desktop/PeerConneX/data/tutee.txt' into table Tutee fields terminated by '\t' lines terminated by '\n';
+
+Create table Tutor_Schedule(id int, day char(10), start_time Time not null, end_time Time not null, PRIMARY KEY(id, day), Foreign key(id) REFERENCES Tutor(id) on delete cascade); LOAD DATA LOCAL INFILE 'C:/Users/Dhruvi/Desktop/PeerConneX/data/tutor_schedule.txt' into table Tutor_schedule fields terminated by '\t' lines terminated by '\n';
+
+Create table Appointments (tutee_id int, tutor_id int, date Date, subject char(20), no_show boolean, primary key (tutee_id, tutor_id, date));
+
+Create table Reviews (tutor_id int, tutee_id int, date Date, rating int, comment varchar(256), primary key(tutor_id, tutee_id, date)); LOAD DATA LOCAL INFILE 'C:/Users/Dhruvi/Desktop/PeerConneX/data/reviews.txt' into table Reviews fields terminated by '\t' lines terminated by '\n';

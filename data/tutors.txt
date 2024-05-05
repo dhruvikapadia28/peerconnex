@@ -1,0 +1,30 @@
+54885691	James Rodriguez	jamesrodriguez@yahoo.com	115-711-063	Business	15
+23401204	Garcia MD	garciamd@yahoo.com	421-737-071	Math	14.75
+53216762	Brittney Bell	brittneybell@gmail.com	441-846-277	Math	14
+26154985	Bruce Newton	brucenewton@gmail.com	772-493-822	Graphic Design	14.75
+01599213	Laura Sullivan	laurasullivan@yahoo.com	030-380-267	Business	14
+59303114	Danielle Price	danielleprice@hotmail.com	352-417-810	Biology	15
+08511775	Barbara Beck	barbarabeck@hotmail.com	979-251-193	Chemistry	14.75
+63880762	Patrick Robinson	patrickrobinson@gmail.com	911-640-580	Biology	14
+81995240	Sharon Martinez	sharonmartinez@gmail.com	532-427-973	Business	14
+85536043	Ronnie Harvey	ronnieharvey@hotmail.com	234-045-172	Business	14
+52157738	Tamara Beck	tamarabeck@hotmail.com	307-697-451	Chemistry	14
+87856996	Susan Armstrong	susanarmstrong@hotmail.com	000-369-961	Math	14
+51845360	Anthony Wilson	anthonywilson@yahoo.com	979-864-649	Biology	15
+33272528	Johnny Singh	johnnysingh@gmail.com	102-186-842	Chemistry	14
+17367875	Austin Johns	austinjohns@gmail.com	458-516-885	Computer Science	14
+40219134	Marilyn Rose	marilynrose@hotmail.com	912-179-298	Math	14.75
+61195639	David Martinez	davidmartinez@yahoo.com	620-598-425	Biology	14
+15005083	Samantha King	samanthaking@gmail.com	206-423-932	Physics	14.75
+29411801	Lucas Myers	lucasmyers@yahoo.com	185-095-866	Computer Science	15
+94538427	Russell Bryant	russellbryant@yahoo.com	455-662-317	Business	14
+88964584	Victor Jones	victorjones@gmail.com	350-156-383	Graphic Design	15
+10705186	Brandon Matthews	brandonmatthews@yahoo.com	973-913-423	Business	14
+09923881	Ray Russell	rayrussell@yahoo.com	274-928-959	Graphic Design	14
+83152221	Kelly Schroeder	kellyschroeder@yahoo.com	935-287-036	Business	14
+87777642	Todd Jones	toddjones@hotmail.com	567-684-895	Biology	14.75
+32848656	Amy Mccoy	amymccoy@gmail.com	265-990-590	Math	15
+78854925	Gregory King	gregoryking@hotmail.com	040-538-757	Computer Science	14.75
+84161123	Shane Armstrong	shanearmstrong@yahoo.com	682-068-402	Chemistry	14.75
+17865364	John Robinson	johnrobinson@gmail.com	168-901-293	Physics	14
+55762113	Brendan Gray	brendangray@gmail.com	037-734-558	Chemistry	14
